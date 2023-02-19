@@ -3,44 +3,70 @@ html {
     background-color: white;
     color: #000;
 }
-
-body{
+body {
     background-color: #886288;
     Color: #fff;
-    font-family: sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     border: 10px solid #fff;
-    margin: 0;
-    Padding: 10px;
-}
+    margin: 10px;
+    Padding: 0px;
+
+  }
 header {
     Background-color: #886288;
-    border: 10px solid #fff;
-    font-size: .5rem;
-    height: 150px;
+    border: 0px solid #fff;
+    font-size: 1rem;
+    height: 250px;
+    display: grid;
+    grid-template-columns: repeat (auto-fit, minmax(204px,1fr));
+}
+
+header h1 {
+    height: 250px;
+    justify-items: left;
+    margin-left: 50px;
+}
+header a {
+    height: 250px;
+    justify-items:right;
 }
 header img {
-    height: 50%;
+    margin-right: 50px;
+    height:250px;
 }
-nav ul{
-    list-style-type: none;
+
+
+.wrapper {
+    background-color: #886288;
+    border: 10px solid #fff;
+
 }
+.wrapper img {
+    height:300%;
+    margin-left:1800px;
+}
+nav {
+    padding: 1rem 0 1rem 0;
+}
+
 nav ul li {
     background-color: #886288;
     color: #fff;
-    border: 5px solid #fff;
-    padding: 0px;
+    margin: 10px;
+    border-left: 10px solid #fff;
+    border-right: 10px solid #fff;
+    border-top: 5px solid #fff;
+    border-bottom: 5px solid #fff;
+    padding: 10px;
 }
 nav ul li:hover {
     background-color:#fff;
     color:#0000e0;
     text-decoration-line: underline;
 }
-.wrapper {
-    background-color: #886288;
-    border: 10px solid #fff;
-    margin: 0;
-    padding: 0;
-}
+
+
+
 footer {
     background-color: #886288;
     border: 10px solid #fff;
