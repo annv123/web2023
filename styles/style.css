@@ -29,7 +29,7 @@ header img{
 }
 
 nav {
-    padding: 1rem 0 1rem 0;
+    padding: 0 0 0 0;
 }
 
 nav ul {
@@ -68,14 +68,14 @@ nav ul li:hover {
 }
 .wrapper img {
     height:300%;
-    margin-left:1800px;
+    margin-left:50px;
     justify-items: left;
 }
 
 #primary {
 display: grid;
 grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-padding: 0 0 1rem 2rem;
+padding: 0 0 1rem 1rem;
 }
 #main article {
     padding: 1rem 1rem 0 1rem;
