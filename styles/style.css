@@ -13,20 +13,17 @@ body {
   }
 header {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-    grid-auto-rows: minmax(50px, auto);
-    gap: 350px;
-    justify-content: left;
-    height: 3.5rem;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    padding: 15px 25px 20px;
+    height: 100px;
     Background-color: #886288;
     border: 10px solid #fff;
     font-size: .5rem;
     height: 100px;
-    padding: 15px;
 }
 header h1{
     height:50px;
-    justify-items: left;
+    justify-items:left;
     margin-left: 50px;
 }
 header a{
@@ -35,7 +32,7 @@ header a{
 }
 header img {
     height: 70px;
-    justify-content: left;
+    margin-right:right;
     border:5px solid #000;
     box-shadow: -20px -20px 20px 10px white;
 }
