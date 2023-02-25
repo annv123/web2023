@@ -14,11 +14,11 @@ body {
 header {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-    padding: 15px 25px 20px;
+    padding: 5px 5px 60px;
     height: 100px;
     Background-color: #886288;
     border: 10px solid #fff;
-    font-size: .5rem;
+    font-size: 18px;
     height: 100px;
 }
 header h1{
@@ -28,12 +28,12 @@ header h1{
 }
 header a{
     height:90px;
-    text-align: right;
+    text-align: left;
 }
 header img {
     height: 70px;
     margin-top:15px;
-    margin-right: 5px;
+    margin-left: 5px;
     border:5px solid #000;
     box-shadow: -10px -10px 20px 10px white;
 }
