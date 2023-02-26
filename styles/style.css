@@ -76,12 +76,45 @@ nav ul li:hover {
 #primary {
 display: grid;
 grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-padding: 15px 25px 20px;
+padding: 25px 25px 20px;
 }
 #main article {
     flex-wrap: wrap;
-    margin: 25px;
+    margin: 50px;
+
     
+}
+.hbtc-table{
+    background-color:#fff;
+    color:#000;
+    border-collapse: collapse;
+    width:5px;
+    border:solid 5px #fff;
+    Width:500px;
+    box-shadow: -10px -10px 20px 10px #000;
+
+    margin:15px auto;
+    font-weight:bold;
+}
+.hbtc-table thead tr{
+    border:solid 5px #fff;
+    letter-spacing:1px;
+    padding:5px;
+    background-color:#886288;
+    color:#fff;
+}
+.hbtc-table body{
+    border-bottom:solid 10px #000;
+}
+
+
+.rowhover:hover{
+    background-color:#000;
+    color:#fff;
+    border:solid 2px #000;
+}
+.hbtc-table footer{
+    border-top:solid 10px #000;
 }
 
 figure {
