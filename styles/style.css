@@ -49,21 +49,21 @@ nav ul {
     list-style-type: none;
 }
 nav ul li {
-    background-color: #886288;
-    color: #fff;
+    background-color: #fff;
+    color: #000;
     margin: 10px;
     border:solid 8px #000;
     padding: 20px;
     font-weight:bold;
 }
 nav u li a {
-    background-color: #fff;
-    color: #886288;
+    background-color: #000;
+    color: #fff;
     font-weight: bold
 }
 
 nav ul li:hover {
-    background-color:#fff;
+    background-color:#000;
     color:#0000e0;
     font-weight:bold;
     text-decoration-line: underline;
