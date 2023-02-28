@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- this is the <head> section; not to be confused with the <header> section -->
+  <head>
+    <meta charset="utf-8">
+    <meta name="The_Camp_Chapter_1" content="The_Camp_Chapter_1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/style.css">
+    <title>Sky Writing Horror By The Chapter</title>
+  </head>
+    <body>
+        <header>
+            <h1 id="title">Sky Writing</h1>
+          <a href="index.html">
+            <img src="images/Skywriting%20SW.svg" aria-label="Sky Writing SW" alt="Sky Writing SW">
+          </a>
+          </header>
+          <nav>
+            <ul>
+              <li><a href="5_Word_Horror_Stories.html"></a>5 Word Horror Stories</li>
+                <li><a href="index.html"></a>Home</li>
+                <li><a href="Art"></a>Art</li>
+            </ul>
+          </nav>
+    
+    <div class="wrapper">
+        <section id="primary">
+            <article id="main_article">
+                    <h2>The Camp Chapter 1</h2>
+                    <br>
+                    <br>
+            
+                    <p>Chapter 1
+                        The crisp air of the forest rushed in through my car window. I knew we were approaching the
+                        camp, last year a series of tragedies had happened including missing campers and bear attacks
+                        during the night. The camp has just reopened, but a feeling of dread is setting in the whole
+                        camp. My mom glanced at the rear view mirror, and said “ Mira look I know what happened last
+                        year, but look at the bright side now they have defense against the bears, also a limit for how
+                        long you can stay outside at night time!” I just shrugged. Thinking, I mean come on I… I ….
+                        Just WOW I mean mom if you had been there you would be right in the same boat as me. We
+                        were here, it was only as if I could still hear the parents crying. A friendly lady in possibly her 40s.
+                        Walked to the car window and said “Hi there young lady! What cabin are ya in?” I grunted and
+                        said “ Wolf cabin.” Thinking: Last year that was one of the parents, and now she is serving the
+                        same place where her daughter had died, with no respect at all. The next thing I know she
+                        handed me a note saying “HELP US PLEASE!!” She winked at me and walked away. Next thing
+                        I know my mom was pushing me out and then my bags, “BYE HONEY” flew out the window as
+                        she sped away.</p>
+                    
+                    <p>Phasellus ligula dui, ultrices at mauris congue,
+                    accumsan tempus leo. Integer gravida felis at arcu pharetra
+                    porta. Phasellus rhoncus magna vitae lorem egestas, et
+                    tempor nunc posuere. Nulla sagittis justo sit amet nunc
+                    rhoncus venenatis. Aliquam leo metus, aliquam non felis at,
+                    dictum iaculis massa. Nam mi ligula, convallis sit amet
+                    dolor in, luctus aliquet lorem. Vestibulum consectetur
+                    sodales sapien in condimentum. Sed efficitur, nunc vitae
+                    condimentum ullamcorper, sapien leo iaculis ligula, vitae
+                    vestibulum urna purus sed erat. Suspendisse nec leo vel
+                    libero tristique blandit quis at est.</p>
+            
+                </article>
+                    
+        
+            <figure id="main_fig">
+                <img srcset="images/Sky_Writing_Logo_Image.450.svg 450w,
+                         images/Sky_Writing_Logo_Image.650.svg 650w"
+                sizes="(max-width: 650px) 450px,
+                        650px"
+                src="images/Sky_Writing_Logo_Image.650.svg"
+                alt="Sky_Writing_Logo_Image">
+                </figure>
+
+            </section>
+    </div>
+  <footer>
+    <p>Thank you for choosing Sky Writer.</p>
+  </footer>
+  </body>
+  </html>
