@@ -109,7 +109,10 @@ h2{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
     padding: 25px 25px 20px;
+    text-align: left;
+    text-indent:8px;
     }
+
 figure {
     padding-bottom:30px;
 }
@@ -120,6 +123,11 @@ figure img {
     box-shadow: 20px 20px 20px 10px;
     justify-items: left;
 
+}
+#secondary {
+    grid-column-end: span 3;
+    text-align: left;
+    text-indent: 8px;
 }
 
 footer {
