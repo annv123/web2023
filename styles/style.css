@@ -125,9 +125,11 @@ figure img {
 
 }
 #secondary {
-    grid-column-end: span 3;
-    text-align: left;
-    text-indent: 8px;
+    background-color:#886288;
+    color:#fff;
+    padding:25px;
+    display:flexbox;
+    border:10px solid #073;
 }
 
 footer {
