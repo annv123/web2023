@@ -125,10 +125,10 @@ figure img {
 
 }
 #secondary {
+    display:flex;
     background-color:#886288;
     color:#fff;
     padding:25px;
-    display:flexbox;
     border:10px solid #073;
 }
 
