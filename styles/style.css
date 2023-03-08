@@ -138,5 +138,16 @@ footer {
 }
 p{
     margin-left: 30px;
+
+}
+.basicform label{
+    display: flex;
+    margin-left: 30px;
+    font-size:16px;
+}
+.basicform input{
+    display: flex;
+    margin-left: 30px;
+    font-size: 16px;
 }
 
