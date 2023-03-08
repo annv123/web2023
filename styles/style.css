@@ -124,12 +124,13 @@ figure img {
     justify-items: left;
 
 }
-#secondary {
-    display:flex;
+.flex-container {
     background-color:#886288;
-    color:#fff;
+    border:10px solid #fff;
+}
+#secondary {
+    color: #fff;
     padding:25px;
-    border:10px solid #073;
 }
 
 footer {
