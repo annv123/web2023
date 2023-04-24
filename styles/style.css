@@ -94,7 +94,7 @@ html {
 }
 body {
     background-color: #886288;
-    Color: #fff;
+    color: #fff;
     font-family: Arial, Helvetica, sans-serif;
     border: 10px solid #886288;
     margin: 10px;
@@ -145,7 +145,7 @@ nav ul li {
     padding: 20px;
     font-weight:bold;
 }
-nav u li a {
+nav li a {
     background-color: #000;
     color: #fff;
     font-weight: bold
@@ -280,7 +280,7 @@ p.indent {
 }
 
 footer {
-    background-color: #886288;
+    background-color:  #886288;
     border: 10px solid #fff;
     margin: 30px;
     padding: 10px;
